@@ -2,7 +2,8 @@
 How to play HoMM3 on Mac 64-bit OS
 Using VirtualBox and Windows 7
 
-This been tested on 27''inch iMac, and works very well
+This been tested on 27''inch iMac, and works very well.
+Same setting may work on a Ubuntu virtual machine with Wine HD.
 
 # Requirements
 - Heroes of Might and Magic® 3: Complete (can be purchased on GOG.com)
