@@ -44,7 +44,7 @@ Same setting may work on a Ubuntu virtual machine with Wine HD.
   - Check HD+
  
  # Run Game thourgh HoMM3 HD
- - In Mac OS Settings->Displays->(Hold Option Key) Click Scale->Choose 1280x720
+ - In Mac OS Settings->Displays->(Hold Option Key) Click Scaled->Choose 1280x720
  - Start Windows 7 virtual machine
  - Start HoMM3 HD and click "Play"
  - The game will not cover the whole screen and the black boarders ensure that the mouse will not trigger VirtualBox Menu or the Mac OS Launcher bar.
