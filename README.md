@@ -44,10 +44,11 @@ Same setting may work on a Ubuntu virtual machine with Wine HD.
   - Check HD+
  
  # Run Game thourgh HoMM3 HD
- - After above settings click "Play"
- - The game will run very smoothly
- - The game will not cover the whole screen and the black boarders ensures that the mouse will not trigger VirtualBox Menu or the Mac OS Launcher bar.
- - If mouse click stop working,
+ - In Mac OS Settings->Displays->(Hold Option Key) Click Scale->Choose 1280x720
+ - Start Windows 7 virtual machine
+ - Start HoMM3 HD and click "Play"
+ - The game will not cover the whole screen and the black boarders ensure that the mouse will not trigger VirtualBox Menu or the Mac OS Launcher bar.
+ - If mouse click stop working (this happens rarely),
   - VirtualBox menu->Input->uncheck Mouse Integration
   - Click somewhere in the game
   - Press VirtualBox Host Key, and re-check menu->Input->Mouse Integration
