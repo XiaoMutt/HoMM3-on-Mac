@@ -48,7 +48,4 @@ Same setting may work on a Ubuntu virtual machine with Wine HD.
  - Start Windows 7 virtual machine
  - Start HoMM3 HD and click "Play"
  - The game will not cover the whole screen and the black boarders ensure that the mouse will not trigger VirtualBox Menu or the Mac OS Launcher bar.
- - If mouse click stop working (this happens rarely),
-  - VirtualBox menu->Input->uncheck Mouse Integration
-  - Click somewhere in the game
-  - Press VirtualBox Host Key, and re-check menu->Input->Mouse Integration
+ - If mouse click stop working (this happens rarely) or mouse keeps dragging, simply right click anywhere in the game
